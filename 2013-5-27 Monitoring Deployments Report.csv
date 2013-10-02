@@ -1,0 +1,338 @@
+Region,System ,Monitoring Tool,"Version
+@ NDS Lab","Version
+@ Live System",Status, SuMo Status,Monitoing version updated  in Datamine,Contact Person,"On Going Activity
+Open issues / Tasks",Last Update date
+Americas Region,,,,,,,,,,
+North America,,,,,,,,,,
+Cablevision CVC (US),VGS,M+  (Legacy),2.40.0-1 ,2.40.0-1 ,Deployed & On-going testing ,"NO
+","NO
+","Zakh, Rami ","SuMo: To be done
+DC: In Progress
+V 2.40.0-1 installed. A config problem fixed by a jar patch. 
+The Patch is included in V 2.41",26/05/2013
+Cogeco (Canada),SI&T,M+ (UHE),2.37.1-2,,On-going testing,"NO
+","NO
+","Foster, Suzanne ","SuMo: To be done
+DC: No DC - To be done
+On-going testing. On site training by the developer. Discussion regarding the attributes exposure.
+
+",26/05/2013
+COX (USA),"DUKEBU
+DUKEIA
+",NDSM,4.0.4,3.9.2.1,Live system upgrade to 4.0.4 planned,"NO
+","NO
+","Joey Quinnett
+Dan Nutt","SuMo: To be done (requested)
+DC: No DC - To be done (requested)
+Support calls: # 194, #216 closed",26/05/2013
+NAM (USA),,NDSM,,3.8.1.0,,Active,YES,,,26/05/2013
+Shaw (Canada),,M+ (UHE),,ND,Showing interest,,,"Gotlib, Shai",,26/05/2013
+LATAM,,,,,,,,,,
+Claro (Telmex)  (Colombia),OTT,M+  (Legacy),,ND,Showing interest,,"NO
+","Voghera, Dani
+Ben Yair, Yaniv  ",DC: No DC - To be done,26/05/2013
+Claro (Telmex)  (Colombia),,NDSM,,4.1.2.0,Deployment in progress,"NO
+","NO
+","Gershon, Danny  
+Rakover, Guy ","SuMo: To be done (requested)
+DC: No DC - To be done (requested)",26/05/2013
+GVT (Brazil),,M+  (Legacy),2.36.0-4,2.40.0-1 ,Deployment in progress,"NO
+","NO
+","Tanis, Uri ","SuMo: To be done (requested)
+DC: No DC - To be done (requested)",26/05/2013
+Oi  (Brazil),,M+  (Legacy),,ND,"Showing interest.
+Planned for Q4 2013",,,"Schneider, Amir ",,26/05/2013
+APJC Region,,,,,,,,,,
+AORA (Indonesia),,NDSM,,3.9.2.1,,Active,"Not 
+up-to-date",,DC: Monitoring Server's scans are not up-to-date,26/05/2013
+Astro (Malaysia),AABC,NDSM,,3.9.2.1,,Active,"Not 
+up-to-date","Leung, Raymond ","DC: Monitoring Server's scans are not up-to-date; still showing version 3.1.5.
+Support issues: #220, #230 still open",26/05/2013
+Astro (Malaysia),CBC,NDSM,,3.9.2.1,,Active,YES,,,26/05/2013
+Astro (Malaysia),"PCS
+PDL-HEP",NDSM,,3.9.2.1,,Active,YES,,,26/05/2013
+ESPN (Singapore),,NDSM,,3.10.1.0,,Active,"Not 
+up-to-date",,DC: Scans not up-to-date.  ,26/05/2013
+FOXTEL (Australia),,NDSM,,"3.8.1.0 /
+4.0.4",,"NO
+","Not 
+up-to-date",,"DC: Scans not up-to-date; 
+        Scans showing NDSM 4.0.4.
+SuMo: If upgraded to 4.0.4 then Sumo needs to be updated",26/05/2013
+Indovision (Indonesia),,NDSM,,3.1.5.R2_P8,,Active,"Not 
+up-to-date",,"DC: Scans not up-to-date.  
+",26/05/2013
+Mediascape (Phil.),,NDSM,,"3.1.2 /
+3.1.2.R1",,"Not 
+up-to-date","Not 
+up-to-date",,DC: Scans showing NDSM 3.1.2 and 3.1.5.R2_P8,26/05/2013
+SNT (New Zeland),,NDSM,,2.2.2.8.r3,,Active,YES,,,26/05/2013
+SNT  (New Zeland),DR,NDSM,,3.2.1,,"NO
+","Not 
+up-to-date",,"SuMo: To be done
+DC: Scans are showing 2.2.2.8.3 although up-to date",26/05/2013
+True Vision (Thailand),,NDSM,,3.8.1.0,,Active,YES,,,26/05/2013
+TVB (Hong Kong),,NDSM,,,,"NO
+","NO
+",,"SuMo: To be done
+DC: No DC - To be done
+Support issue: #233 is open",26/05/2013
+India,,,,,,,,,,
+Atria ACT,Live,M+  (Legacy),,2.40.0-1 ,Deployment in progress,"NO
+","NO
+","Acharya, Ankit ","SuMo: To be done
+DC: No DC - To be done
+Deployment: In progress",26/05/2013
+ADN,,NDSM,,3.9.2.1,,"NO
+","NO
+","Resnick, Eddy
+Kaur, Guneet 
+","SuMo: To be done
+DC: Monitoring Server not scanned",26/05/2013
+Bharti,DTH,NDSM,,3.8.1.0,,Active,YES,,Support issues: #218 will be fixed in 4.3;  #221 still open;,26/05/2013
+Bharti,PDL,NDSM,,3.9.2.1,,Active,YES,,,26/05/2013
+Bharti,"PDL FAM 
+(Failed Asset Monitor",M+  (Legacy),,2.29.0.6 ,,"NO
+","NO
+","Malhotra, Deepak 
+Sikarwar, Manish ","SuMo: To be done
+DC: Monitoring Server not scanned.
+FAM: M+ used only for PDL covering VAM and XTVE's. False asset data coming up in M+  (should be addressed by the component). Auto discovery issues to be fixed in iter 42. 
+",26/05/2013
+Bharti,DR,M+  (Legacy),,2.40.0-1 ,,"NO
+","NO
+",,"SuMo: To be done
+DC: No DC - To be done",26/05/2013
+DEN ,,NDSM,,3.8.1.0,,"Not 
+up-to-date","Not 
+up-to-date","Resnick, Eddy
+Kaur, Guneet 
+","DC:  Scans not up-to-date
+Issues interuppting the monitoring. Investigation in progress.",26/05/2013
+DSN,,NDSM,,3.9.2.1,,"NO
+",YES,,SuMo: To be done,26/05/2013
+GTPL,,NDSM,,3.1.5.R2_P8,,Active,"Not 
+up-to-date",,DC: Scans not up-to-date,26/05/2013
+Hathway,,NDSM,,3.1.5.R2_P8,,Active,"NO
+",,"DC: Scans not up-to-date, Monitoring Server not scanned
+Support issue: #224 still open",26/05/2013
+JAK,,NDSM,,3.8.1.0,,Active,YES,,,26/05/2013
+Star ,,NDSM,,3.8.1.0,,Active,YES,,,26/05/2013
+Star ,Dynamic Ads,??,,??,,"NO
+","NO
+",,"SuMo: Is monitoring deployed?
+DC: Monitoring Server not scanned",26/05/2013
+Tata Sky  ,,NDSM,,3.3.0,,Active,YES,,,26/05/2013
+Tata Sky  ,PDL,NDSM,,3.8.1.0,,"NO
+","NO
+",,"SuMo: To be done
+DC: No DC - To be done",26/05/2013
+Tata Sky  ,20M DTH,M+  (Legacy),,2.40.0-1 ,Deployment in progress,"NO
+","NO
+","Malhotra, Deepak 
+Singh, Sarvajeet","SuMo: To be done
+DC: Monitoring Server not scanned",26/05/2013
+Tata Sky  ,OTT HE,M+ (UHE),,,Planned,,"NO
+",,DC: No DC - To be done,26/05/2013
+Korea,,,,,,,,,,
+CJH,,NDSM,,3.9.2.1,,Active,YES,,,26/05/2013
+GSGB ,,NDSM,,3.8.1.0,,Active,YES,,,26/05/2013
+HCN,,NDSM,,3.9.2.1,,Active,YES,,Support issue #183 to be fixed in V4.3,26/05/2013
+KT,,NDSM,,3.5.0.0 ,,Active,YES,,,26/05/2013
+China,,,,,,,,,,
+CCTV/CDM ,,M+  (Legacy),2.41.0-2,,Testing Audio Alarm in progress,"Not 
+up-to-date","NO
+","In, Thomas","SuMo: Need activation
+DC: No DC - To be done
+Testing Audio Alarm in progress; Issues will be fixed in V 2.42",26/05/2013
+ChongQing,,NDSM,,3.9.2.1,,"NO
+",YES,,,26/05/2013
+Guangzhou,,NDSM,,3.9.2.1,,"NO
+","Not 
+up-to-date",,"DC: Scans not up-to-date.
+Scans showing NDSM 3.1.5.R2_P8",26/05/2013
+Guizhou,,NDSM,,3.9.2.1,,"NO
+",YES,,,26/05/2013
+Hainan,,NDSM,,4.1.2.0,,"NO
+",YES,,,26/05/2013
+SARFT CITVC,,NDSM,,3.10.1.0 ,Advised to upgrade to 4.2.4 ,"NO
+","NO
+","Deng, Joe","DC: Monitoring Server not scanned.
+Support  issue: #234 closed; 
+Advised to upgrade to 4.2.4 to solve the keshet false alarm
+",26/05/2013
+Shenzhen/TW,,NDSM,,3.7.1.0 ,,"NO
+","Not 
+up-to-date",,DC: Scans not up-to-date,26/05/2013
+Shanghai/OCN,,NDSM,,3.9.2.1,,"NO
+","NO
+",,DC: No DC - To be done,26/05/2013
+Sichuan,,M+  (Legacy),,ND,Planned to deploy ver 2.42,,"NO
+","Ramati, Ben",DC: No DC - To be done,26/05/2013
+Tianjin,,NDSM,,3.1.5.R2 P8      ,,"NO
+","NO
+",,DC: Monitoring Server not scanned,26/05/2013
+Wenzhou,,NDSM,,2.2.2.8.r3,,"NO
+","NO
+",,DC: Monitoring Server not scanned,26/05/2013
+Zhongshan,,NDSM,,3.7.1.0 ,,"NO
+","NO
+",,DC: No DC - To be done,26/05/2013
+EMEAR Region,,,,,,,,,,
+BSkyB (UK),,M+ (UHE),2.36.1-6,2.36.1-6,Deployed,"NO
+",,"Vijay Suthanthira 
+Layton, Donald ",,26/05/2013
+BSkyB (UK),AUS/PDL,NDSM,,3.10.1.0,,"NO
+",,,,26/05/2013
+BSkyB (UK),DRM,NDSM,,3.9.2.1,,"NO
+",,,,26/05/2013
+Canal Digital,,M+ (UHE),2.40.0-1,,On-going testing,"NO
+","NO
+","Hopewell, Thomas","SuMo: To be done
+DC: No DC",26/05/2013
+UPC (Netherlands),Live,M+ (UHE),,iter 30,Deployed,"NO
+",,"Lewis, Matthew 
+Kumar, Ganesh ",,26/05/2013
+UPC (Switzerland),Live,M+ (UHE),,iter 30,Deployed,"NO
+",,,,26/05/2013
+UPC (Ireland),Operational Field trial (OFT),M+ (UHE),,2.35.1-3-P8,UM and IE are undergoing tests on M+ for ORT,"NO
+",,,,26/05/2013
+UPC (Germany),Unity Media  Technical Field Trial (TFT),M+ (UHE),,2.35.1-3-P8,,"NO
+",,,"Patch 8 deployed
+",26/05/2013
+Voo (Belgium),,M+ (UHE),,ND,Showing interest,,,,,26/05/2013
+Ziggo (Holland),,M+ (UHE),,ND,Showing interest,,,,,26/05/2013
+CustOps Armstrong,,,,,,,,,,
+Cosmos (Belarus),,NDSM,,4.1.2.0,,Active,YES,,,26/05/2013
+Digita (Finland),,NDSM,,3.8.1.0,,"NO
+",YES,,,26/05/2013
+KazTelRadio (Kazachstan),,NDSM,,4.1.2.0,,Active,YES,,"SuMo: Need version update
+Support call # 195 still open",26/05/2013
+Lumiere (Cyprus),,NDSM,,4.1.2.0,,Active,YES,,Support call # 229 still open,26/05/2013
+ODM (South Africa),,NDSM,,3.10.1.0,,Active,YES,,,26/05/2013
+OTE (Greece),,NDSM,,3.7.1.0 ,,Active,YES,,,26/05/2013
+PAKT (Russia),,NDSM,,4.1.2.0,,Active,YES,,,26/05/2013
+Romtel (Romania),,NDSM,,4.2.4.0,"Recently upgraded to 4.2.4; 
+",Active,YES,Darren Lewington,"Support issues: V 4.2.4 should have fixed #159, #167. Waiting for site's confirmation.
+Open support issue #165 will  be fixed for V 4.3;
+Support  issue #232 is  open;",26/05/2013
+Sky Deutschland  (Germany),BDL,M+ (UHE),,2.9.1-2,Deployed,"NO
+","NO
+","Vishnia, Orna
+Beesley, Rowan ","SuMo: To be done
+DC: Monitoring Server not scanned",26/05/2013
+Sky Deutschland  (Germany),Lab,M+  (Legacy),2.40.0-1 ,,Deployment in lab in progress,"NO
+","NO
+","Vishnia, Orna
+Knobel, Alex","SuMo: To be done
+DC: Monitoring Server not scanned",26/05/2013
+Sky Deutschland  (Germany),,NDSM,,4.2.4.0,"Recently upgraded to 4.2.4 ; 
+Upgrade to M+ is planned as part of the HE RHEL5 upgrade
+",Active,YES,,Support issues: V 4.2.4 should have fixed #126 (CR); waiting for site's approval to close;   #231 is closed;,26/05/2013
+Telecolumbus (Germany),,NDSM,,4.2.4.0,"Recently upgraded to 4.2.4;
+",Active,YES,,Support issues: V 4.2.4 should have fixed #. Waiting for site's confirmation.,26/05/2013
+YLE (Finland),,NDSM,,3.7.1.0,,"NO
+","NO
+",,DC: No DC ,26/05/2013
+CustOps Edison,,,,,,,,,,
+Akado (Russia) ,,NDSM,,4.1.2.0,"To be upgraded to 4.2.4 ;
+",Active,YES,Matt Wilson,"Support issues: Upgraded to 4.2.4 should fix #205 (A&B)
+",26/05/2013
+Avcom (Angola),,NDSM,,3.8.1.0,,"NO
+","Not 
+up-to-date",,"SuMo: To be done
+DC: Scans not up-to-date; Old scans showing NDSM V 3.1.5",26/05/2013
+Dogan (Istanbul),,NDSM,,3.8.1.0,,Active,"Not 
+up-to-date",,DC: Scans not up-to-date; Old scans showing NDSM V 3.1.5,26/05/2013
+KDG (Germany),,NDSM,,3.8.1.0,,Active,"Not 
+up-to-date",,DC: Scans not up-to-date; Old scans showing NDSM V 3.1.5,26/05/2013
+NewCo,,NDSM,,3.5.1.0 ,,"NO
+","Not 
+up-to-date",,"DC: Scans not up-to-date. 
+NDSM: Was NDSM upgraded to V 3.7.1.0  (according to Test system's scans)
+SuMo: If upgraded to 3.7.1.0 then Sumo needs to be updated",26/05/2013
+SBB/TotalTV (Serbia),,NDSM,,3.10.1.0,,Active,"Not 
+up-to-date",,DC: Scans not up-to-date; Old scans showing NDSM V 3.9.2.1,26/05/2013
+SmallWorld/WCN  (Wight),,NDSM,,3.10.1.0,,Active,YES,,,26/05/2013
+Teleclub (Switz) ,,NDSM,,3.9.2.1,,Active,"Not 
+up-to-date",,DC: Scans not up-to-date; Old scans showing NDSM V 3.30,26/05/2013
+TV Poland (Poland),,NDSM,,3.8.1.0,,Active,YES,,,26/05/2013
+UPC Poland/Aster (Poland),,NDSM,,2.2.2.8.r3,,Active,YES,,"NDSM: Was NDSM upgraded to V 3.1.1R2 or 3/10/1/0  (according to scan results)
+SuMo: If NDSM upgraded then Sumo needs to be updated",26/05/2013
+Viasat Ukraine / Vision,,NDSM,,3.8.1.0,,Active,YES,,,26/05/2013
+Vivacom (Bulgaria),,NDSM,,3.7.1.0 ,,Active,YES,,,26/05/2013
+CustOps Marconi,,,,,,,,,,
+CYTA (Cyprus),,NDSM,,3.10.1.0,,Active,YES,,Support issue: #228 in progress,26/05/2013
+GET (Oslo),OTT,M+ (UHE),2.40.0-1,,Planned to be live soon,"NO
+","NO
+","Hwang, Ricky ","SuMo: To be done
+DC: No DC - To be done",26/05/2013
+GET (Oslo),,NDSM,,3.9.2.1,,"Not 
+up-to-date",YES,,Support issue: #211 still open,26/05/2013
+KBW (Germany),,NDSM,,3.9.2.1,,Active,"Not 
+up-to-date",,"DC: Scans not up-to-date;  
+NDSM: Was NDSM upgraded to V 4.0.4  (according to scan results)
+SuMo: If upgraded to 4.0.4 then Sumo needs to be updated",26/05/2013
+KBW (Germany),VOD,NDSM,,4.0.4,,"NO
+",YES,,SuMo: To be done,26/05/2013
+ONO (Spain),,NDSM,,3.7.1.0 ,,Active,"NO
+",,"DC: DCM machine not scanned
+Support issue: #212 still open",26/05/2013
+Telecom Italia (Italy),,NDSM,,3.8.1.0,,Active,YES,,,26/05/2013
+Vodafone (Germany),,M+  (Legacy),2.40.0-1,,Deployment in lab in progress,"NO
+",YES,Steven Ruddell,"SuMo: To be done
+",26/05/2013
+Vodafone (Germany),,NDSM,,3.8.1.0,,"NO
+","NO
+",,"SuMo: To be done
+DC: No DC - To be done",26/05/2013
+Israel,,,,,,,,,,
+HOT,Haifa,NDSM,,3.7.1.0 ,,Active,"Not 
+up-to-date",,DC: Scans not up-to-date,26/05/2013
+HOT,Petach Tiqwa (GC),NDSM,,3.3.0,,Active,YES,,,26/05/2013
+HOT,ITV,NDSM,,3.7.1.0,,Active,"NO
+",,DC: No DC - To be done,26/05/2013
+YES,,M+  (Legacy),,ND,Showing interest,,,"Yehoshua, Shlomi",,26/05/2013
+YES,Live,NDSM,,3.3.0,,Active,YES,,,26/05/2013
+YES,Backup ,NDSM,,3.3.0,,Active,YES,,,26/05/2013
+YEDIOT,,NDSM,,3.5.1.0 ,,"NO
+",YES,,Site partially active,26/05/2013
+END,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,

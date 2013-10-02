@@ -1,0 +1,87 @@
+<!doctype html>
+
+<html>
+    <head>
+      <meta charset="utf-8" />
+      <title>Monitoring Deployment</title>
+      <script src="js/jquery.js"></script>
+      <script src="jquery.csv-0.7.js"></script>
+      <script src="tables.js"></script>
+  
+      <!-- Le styles -->
+  
+      <link href="css/bootstrap.css" rel="stylesheet">
+      <link href="css/bootstrap-responsive.css" rel="stylesheet">
+  
+      <style>
+      p { 
+          font-size: small;
+       }
+   
+	    </style>
+  
+      <!-- Le fav and touch icons -->
+      <link rel="shortcut icon" href="ico/favicon.ico">
+      <link rel="apple-touch-icon-precomposed" sizes="114x114" href="ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="ico/apple-touch-icon-72-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" href="ico/apple-touch-icon-57-precomposed.png">      
+    </head>
+
+    <body>
+       
+       <div class="container-fluid">
+           <div class="page-header">
+            <h1> Monitoring Deployment</h1>
+           </div>
+ 
+           <div class="row-fluid">
+            <div class="span3" id="upload">
+                <input type=file id=files name=file[] />
+                <br/>
+                <button class="btn btn-success" id="btnPreview">Preview</button> 
+                <label></label>
+                <label><b>Page Name</b></label>              
+                <textarea class="input-medium" rows="1" id='page'></textarea>
+                <br/>
+                <button class="btn btn-success" id="btnUpload">Upload</button>
+                <label></label>
+                <label><b>Log</b></label>
+                <textarea class="input-medium" rows="3" id='log' disabled></textarea>
+                <label></label>
+                <button class="btn btn-success" id="btnClear">Clear</button>
+            </div>
+            <div class="span9" id="content">
+                <p>Use this page to upload NDS Monitor deployment data from a .csv file.</p>
+                <p><b>To upload terms</b></p>
+                <ol>
+                    <li>Use the <b>Choose Files</b> button to select a csv file.</li>
+                    <li>In the <b>Page Name</b> box, type the name of the NDPedia page that will host the table.</li>
+                    <li>Click <b>Preview</b> to display how the uploaded table will be displayed in NDPedia.</li>
+	                <li>Click <b>Upload</b> to generate the page.</li> 
+                </ol>
+                <p><b>Note</b></p>
+                <p>If you upload the table data to an existing page, the table will be appended to the page's existing content.</p>
+            
+            </div>
+           </div>   
+      </div>
+    </div> 
+   
+      <!-- Le javascript
+      ================================================== -->
+      <!-- Placed at the end of the document so the pages load faster -->
+      <script src="js/bootstrap-transition.js"></script>
+      <script src="js/bootstrap-alert.js"></script>
+      <script src="js/bootstrap-modal.js"></script>
+      <script src="js/bootstrap-dropdown.js"></script>
+      <script src="js/bootstrap-scrollspy.js"></script>
+      <script src="js/bootstrap-tab.js"></script>
+      <script src="js/bootstrap-tooltip.js"></script>
+      <script src="js/bootstrap-popover.js"></script>
+      <script src="js/bootstrap-button.js"></script>
+      <script src="js/bootstrap-collapse.js"></script>
+      <script src="js/bootstrap-carousel.js"></script>
+      <script src="js/bootstrap-typeahead.js"></script>
+  
+    </body>
+</html>
